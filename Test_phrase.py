@@ -1,3 +1,5 @@
+#Ex10: Тест на короткую фразу
+
 class TestPhrase:
     def test_phrase(self):
         phrase = input("Введите  фразу короче 15 символов: ")
